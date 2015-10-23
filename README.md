@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/elgubenis/varlidator.svg)](https://travis-ci.org/elgubenis/varlidator)
 [![Code Climate](https://codeclimate.com/github/elgubenis/varlidator/badges/gpa.svg)](https://codeclimate.com/github/elgubenis/varlidator)
 [![Test Coverage](https://codeclimate.com/github/elgubenis/varlidator/badges/coverage.svg)](https://codeclimate.com/github/elgubenis/varlidator/coverage)
+
 # Varlidator
 JavaScript variable identifier validation. Try/Catch a new Function() which defines and returns a Boolean to a variable name.
 
