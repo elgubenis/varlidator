@@ -16,3 +16,15 @@ var isValid = varlidate('@');
 isValid = varlidate('a');
 // returns: true
 ```
+
+## How to develop
+```sh
+npm install
+grunt
+```
+
+## How to build (before publishing)
+```sh
+npm install
+grunt build
+```
