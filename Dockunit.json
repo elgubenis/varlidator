@@ -4,7 +4,8 @@
         "image": "node:0.10.40",
         "beforeScripts": [
             "npm install",
-            "npm install -g mocha"
+            "npm install -g grunt grunt-cli mocha",
+            "grunt test"
         ],
         "testCommand": "mocha test/dist/index.js"
     }, {
@@ -12,7 +13,8 @@
         "image": "node:0.12",
         "beforeScripts": [
             "npm install",
-            "npm install -g mocha"
+            "npm install -g grunt grunt-cli mocha",
+            "grunt test"
         ],
         "testCommand": "mocha test/dist/index.js"
     }, {
@@ -20,7 +22,8 @@
         "image": "node:latest",
         "beforeScripts": [
             "npm install",
-            "npm install -g mocha"
+            "npm install -g grunt grunt-cli mocha",
+            "grunt test"
         ],
         "testCommand": "mocha test/dist/index.js"
     }]
