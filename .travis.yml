@@ -6,6 +6,7 @@ node_js:
   - "0.10"
 before_install:
   - npm install -g mocha grunt grunt-cli
+  - npm install
   - grunt build
   - grunt build-test
 script:
