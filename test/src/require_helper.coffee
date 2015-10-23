@@ -1,2 +1,2 @@
 module.exports = (path) ->
-  return require(('../coverage/instrument/build/') + path)
+  return require((__dirname + '/../coverage/instrument/build/') + path)
