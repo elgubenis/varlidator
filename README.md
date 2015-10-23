@@ -1,5 +1,4 @@
-[![Dockunit Status](https://dockunit.io/svg/elgubenis/varlidator?master)](https://dockunit.io/projects/elgubenis/varlidator#master)
-
+[![Build Status](https://travis-ci.org/elgubenis/varlidator.svg)](https://travis-ci.org/elgubenis/varlidator)
 # Varlidator
 JavaScript variable identifier validation. Try/Catch a new Function() which defines and returns a Boolean to a variable name.
 
