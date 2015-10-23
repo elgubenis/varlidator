@@ -7,8 +7,8 @@ node_js:
 before_install:
   - npm install
   - npm install -g mocha grunt grunt-cli
-  - grunt build-test
 script:
+  - grunt build-test
   - grunt test
 notifications:
   email: false
