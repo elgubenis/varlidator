@@ -14,3 +14,6 @@ script:
 notifications:
   email: false
 sudo: false
+addons:
+  code_climate:
+    repo_token: 22ddde49b96cd7032e77bbac8ac2ed740993c876f50eb7d4eb702fcb80b1748e
