@@ -1,6 +1,6 @@
 {
   "name": "varlidator",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "JavaScript variable identifier validation.",
   "main": "dist/index.js",
   "scripts": {
